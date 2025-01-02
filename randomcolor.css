@@ -1,0 +1,11 @@
+
+body{
+    text-align: center;
+    
+}
+p{
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    border: 2px solid black;
+}
